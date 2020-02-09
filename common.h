@@ -7,6 +7,10 @@ void function()
 	for (int i=0; i<10; i++) {
 	     printf("hello\r\n");
 	}
+
 	printf("hello\r\n");
+	printf("hello world\r\n");
+	printf("come on!");
+	printf("...");
 	return ;
 }
