@@ -3,7 +3,7 @@
 
 void function()
 {
-	printf("hello\r\n");
+	printf("hello world\r\n");
 	printf("come on!");
 	printf("...");
 	return ;
